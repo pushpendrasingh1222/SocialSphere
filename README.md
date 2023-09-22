@@ -3,7 +3,7 @@ A Full Stack feature-rich social networking web application.
 
 **Tool and Technoligies used**
 
-🔯 Managing data with mongodb.
+🔯 Managing data with mongodb.  <br>
 🔯 creating server using node js and express js.
 🔯 All the feature of react.
 🔯 How to build backend APIs with Node.js & Express.
